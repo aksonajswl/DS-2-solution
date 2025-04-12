@@ -4,6 +4,9 @@
 Dataset link - https://drive.google.com/file/d/1CjoJkFuxCRqzQm10kN8UP7-osA0_x3N2/view?usp=sharing
 Collab link - https://colab.research.google.com/drive/1Ummeq5iHf8bBAvmvVOnVzppeEObL8QR4?usp=sharing
 
+Explanation_Video link - https://drive.google.com/file/d/1fYDcJOHbk5m0SDFmDdeqNcHiyKCd7nKC/view?usp=sharing
+
+
 
 
 # Classification Model Comparison Project
